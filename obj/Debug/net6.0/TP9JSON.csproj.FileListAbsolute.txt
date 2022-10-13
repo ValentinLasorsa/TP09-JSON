@@ -1,0 +1,81 @@
+Z:\Base de Datos\JSON\TP9JSON\bin\Debug\net6.0\appsettings.Development.json
+Z:\Base de Datos\JSON\TP9JSON\bin\Debug\net6.0\appsettings.json
+Z:\Base de Datos\JSON\TP9JSON\bin\Debug\net6.0\TP9JSON.staticwebassets.runtime.json
+Z:\Base de Datos\JSON\TP9JSON\bin\Debug\net6.0\TP9JSON.exe
+Z:\Base de Datos\JSON\TP9JSON\bin\Debug\net6.0\TP9JSON.deps.json
+Z:\Base de Datos\JSON\TP9JSON\bin\Debug\net6.0\TP9JSON.runtimeconfig.json
+Z:\Base de Datos\JSON\TP9JSON\bin\Debug\net6.0\TP9JSON.dll
+Z:\Base de Datos\JSON\TP9JSON\bin\Debug\net6.0\TP9JSON.pdb
+Z:\Base de Datos\JSON\TP9JSON\obj\Debug\net6.0\TP9JSON.csproj.AssemblyReference.cache
+Z:\Base de Datos\JSON\TP9JSON\obj\Debug\net6.0\TP9JSON.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Base de Datos\JSON\TP9JSON\obj\Debug\net6.0\TP9JSON.AssemblyInfoInputs.cache
+Z:\Base de Datos\JSON\TP9JSON\obj\Debug\net6.0\TP9JSON.AssemblyInfo.cs
+Z:\Base de Datos\JSON\TP9JSON\obj\Debug\net6.0\TP9JSON.csproj.CoreCompileInputs.cache
+Z:\Base de Datos\JSON\TP9JSON\obj\Debug\net6.0\TP9JSON.MvcApplicationPartsAssemblyInfo.cache
+Z:\Base de Datos\JSON\TP9JSON\obj\Debug\net6.0\TP9JSON.RazorAssemblyInfo.cache
+Z:\Base de Datos\JSON\TP9JSON\obj\Debug\net6.0\TP9JSON.RazorAssemblyInfo.cs
+Z:\Base de Datos\JSON\TP9JSON\obj\Debug\net6.0\staticwebassets.build.json
+Z:\Base de Datos\JSON\TP9JSON\obj\Debug\net6.0\staticwebassets.development.json
+Z:\Base de Datos\JSON\TP9JSON\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+Z:\Base de Datos\JSON\TP9JSON\obj\Debug\net6.0\scopedcss\bundle\TP9JSON.styles.css
+Z:\Base de Datos\JSON\TP9JSON\obj\Debug\net6.0\scopedcss\projectbundle\TP9JSON.bundle.scp.css
+Z:\Base de Datos\JSON\TP9JSON\obj\Debug\net6.0\TP9JSON.dll
+Z:\Base de Datos\JSON\TP9JSON\obj\Debug\net6.0\refint\TP9JSON.dll
+Z:\Base de Datos\JSON\TP9JSON\obj\Debug\net6.0\TP9JSON.pdb
+Z:\Base de Datos\JSON\TP9JSON\obj\Debug\net6.0\TP9JSON.genruntimeconfig.cache
+Z:\Base de Datos\JSON\TP9JSON\obj\Debug\net6.0\ref\TP9JSON.dll
+Z:\Base de Datos\JSON\TP9JSON\bin\Debug\net6.0\TP9JSON.json
+C:\Users\46919212\Desktop\TP9JSON\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\46919212\Desktop\TP9JSON\bin\Debug\net6.0\appsettings.json
+C:\Users\46919212\Desktop\TP9JSON\bin\Debug\net6.0\TP9JSON.json
+C:\Users\46919212\Desktop\TP9JSON\bin\Debug\net6.0\TP9JSON.staticwebassets.runtime.json
+C:\Users\46919212\Desktop\TP9JSON\bin\Debug\net6.0\TP9JSON.exe
+C:\Users\46919212\Desktop\TP9JSON\bin\Debug\net6.0\TP9JSON.deps.json
+C:\Users\46919212\Desktop\TP9JSON\bin\Debug\net6.0\TP9JSON.runtimeconfig.json
+C:\Users\46919212\Desktop\TP9JSON\bin\Debug\net6.0\TP9JSON.dll
+C:\Users\46919212\Desktop\TP9JSON\bin\Debug\net6.0\TP9JSON.pdb
+C:\Users\46919212\Desktop\TP9JSON\obj\Debug\net6.0\TP9JSON.csproj.AssemblyReference.cache
+C:\Users\46919212\Desktop\TP9JSON\obj\Debug\net6.0\TP9JSON.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\46919212\Desktop\TP9JSON\obj\Debug\net6.0\TP9JSON.AssemblyInfoInputs.cache
+C:\Users\46919212\Desktop\TP9JSON\obj\Debug\net6.0\TP9JSON.AssemblyInfo.cs
+C:\Users\46919212\Desktop\TP9JSON\obj\Debug\net6.0\TP9JSON.csproj.CoreCompileInputs.cache
+C:\Users\46919212\Desktop\TP9JSON\obj\Debug\net6.0\TP9JSON.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\46919212\Desktop\TP9JSON\obj\Debug\net6.0\TP9JSON.RazorAssemblyInfo.cache
+C:\Users\46919212\Desktop\TP9JSON\obj\Debug\net6.0\TP9JSON.RazorAssemblyInfo.cs
+C:\Users\46919212\Desktop\TP9JSON\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\46919212\Desktop\TP9JSON\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\46919212\Desktop\TP9JSON\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\46919212\Desktop\TP9JSON\obj\Debug\net6.0\scopedcss\bundle\TP9JSON.styles.css
+C:\Users\46919212\Desktop\TP9JSON\obj\Debug\net6.0\scopedcss\projectbundle\TP9JSON.bundle.scp.css
+C:\Users\46919212\Desktop\TP9JSON\obj\Debug\net6.0\TP9JSON.dll
+C:\Users\46919212\Desktop\TP9JSON\obj\Debug\net6.0\refint\TP9JSON.dll
+C:\Users\46919212\Desktop\TP9JSON\obj\Debug\net6.0\TP9JSON.pdb
+C:\Users\46919212\Desktop\TP9JSON\obj\Debug\net6.0\TP9JSON.genruntimeconfig.cache
+C:\Users\46919212\Desktop\TP9JSON\obj\Debug\net6.0\ref\TP9JSON.dll
+Z:\Base de Datos\TP9JSON\bin\Debug\net6.0\appsettings.Development.json
+Z:\Base de Datos\TP9JSON\bin\Debug\net6.0\appsettings.json
+Z:\Base de Datos\TP9JSON\bin\Debug\net6.0\TP9JSON.json
+Z:\Base de Datos\TP9JSON\bin\Debug\net6.0\TP9JSON.staticwebassets.runtime.json
+Z:\Base de Datos\TP9JSON\bin\Debug\net6.0\TP9JSON.exe
+Z:\Base de Datos\TP9JSON\bin\Debug\net6.0\TP9JSON.deps.json
+Z:\Base de Datos\TP9JSON\bin\Debug\net6.0\TP9JSON.runtimeconfig.json
+Z:\Base de Datos\TP9JSON\bin\Debug\net6.0\TP9JSON.dll
+Z:\Base de Datos\TP9JSON\bin\Debug\net6.0\TP9JSON.pdb
+Z:\Base de Datos\TP9JSON\obj\Debug\net6.0\TP9JSON.csproj.AssemblyReference.cache
+Z:\Base de Datos\TP9JSON\obj\Debug\net6.0\TP9JSON.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Base de Datos\TP9JSON\obj\Debug\net6.0\TP9JSON.AssemblyInfoInputs.cache
+Z:\Base de Datos\TP9JSON\obj\Debug\net6.0\TP9JSON.AssemblyInfo.cs
+Z:\Base de Datos\TP9JSON\obj\Debug\net6.0\TP9JSON.csproj.CoreCompileInputs.cache
+Z:\Base de Datos\TP9JSON\obj\Debug\net6.0\TP9JSON.MvcApplicationPartsAssemblyInfo.cache
+Z:\Base de Datos\TP9JSON\obj\Debug\net6.0\TP9JSON.RazorAssemblyInfo.cache
+Z:\Base de Datos\TP9JSON\obj\Debug\net6.0\TP9JSON.RazorAssemblyInfo.cs
+Z:\Base de Datos\TP9JSON\obj\Debug\net6.0\staticwebassets.build.json
+Z:\Base de Datos\TP9JSON\obj\Debug\net6.0\staticwebassets.development.json
+Z:\Base de Datos\TP9JSON\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+Z:\Base de Datos\TP9JSON\obj\Debug\net6.0\scopedcss\bundle\TP9JSON.styles.css
+Z:\Base de Datos\TP9JSON\obj\Debug\net6.0\scopedcss\projectbundle\TP9JSON.bundle.scp.css
+Z:\Base de Datos\TP9JSON\obj\Debug\net6.0\TP9JSON.dll
+Z:\Base de Datos\TP9JSON\obj\Debug\net6.0\refint\TP9JSON.dll
+Z:\Base de Datos\TP9JSON\obj\Debug\net6.0\TP9JSON.pdb
+Z:\Base de Datos\TP9JSON\obj\Debug\net6.0\TP9JSON.genruntimeconfig.cache
+Z:\Base de Datos\TP9JSON\obj\Debug\net6.0\ref\TP9JSON.dll

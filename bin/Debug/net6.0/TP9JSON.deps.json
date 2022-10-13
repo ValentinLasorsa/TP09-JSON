@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "TP9JSON/1.0.0": {
+        "runtime": {
+          "TP9JSON.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TP9JSON/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

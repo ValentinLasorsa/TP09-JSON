@@ -1,0 +1,86 @@
+{"Restaurantes":
+[
+    
+    {
+    "IDUnico":1,
+    "Nombre":"Vasquito",
+    "AñoDeApertura":"1970-07-10",
+    "Ubicación(latitud)":"-34.61176291613812",
+    "Ubicación(longitud)":"-58.43035924243503",
+    "Dueño":"el Vasco",
+    "Logo":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2Felvasquitoempanadas%2F&psig=AOvVaw0HumoXwAle1pkavqp0-uHe&ust=1665661566687000&source=images&cd=vfe&ved=0CAkQjRxqFwoTCJjg-IHP2voCFQAAAAAdAAAAABAD",
+    "Platos":[{"Nombre":"Completo","PrecioUnitario":2100,"PlatoPrincipal":"Masa de pizza","MenuPrincipal":"Empanada de JyQ","Postre":"Mousse de chocolate"}],
+    "Reseñas":[
+        {"NombreUsuario":"Raquel","Valoración":4,"Descripción":"Si quieren darse un gusto de vez en cuando y comer unas ricas empanadas fritas no duden en probar las del el Vasquito. Tienen dos sucursales. Siempre pido en avenida alberdi al 100. tambien tienen al horno. muy recomendables","CantLikes":74},
+        {"NombreUsuario":"Daniel","Valoración":5,"Descripción":"Las mejores empanadas del barrio, sin duda mi primer opción cuando se me antojan unas excelentes empanadas","CantLikes":144},
+        {"NombreUsuario":"Miguelito","Valoración":3,"Descripción":"Gustos originales de empanadas muy ricas y novedosas","CantLikes":25}
+    ]
+    },
+    
+    {
+        "IDUnico":2,
+        "Nombre":"Il nonno pibe",
+        "AñoDeApertura":"1990-03-12",
+        "Ubicación(latitud)":"-34.61154249726945",
+        "Ubicación(longitud)":"-58.431483620590036",
+        "Dueño":"el Nonno",
+        "Logo":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2Filnonnopibe%2F&psig=AOvVaw2YuiclNZQq-xkXFix5ivsG&ust=1665661616863000&source=images&cd=vfe&ved=0CAkQjRxqFwoTCNiogZrP2voCFQAAAAAdAAAAABAI",
+        "Platos":[{"Nombre":"De la casa","PrecioUnitario":2450,"PlatoPrincipal":"Pancitos con salsa de aderezo","MenuPrincipal":"Pizza de rúcula y jamón crudo","Postre":"Helado de americana"}],
+        "Reseñas":[
+            {"NombreUsuario":"Luis","Valoración":3,"Descripción":"Fuimos a comprar a este lugar por los comentarios, La atención es excelente, muy atentos y amables . La pizza no es lo que yo esperaba . La masa tiene características de prepizza de Mercado","CantLikes":37},
+            {"NombreUsuario":"Matias","Valoración":1,"Descripción":"No vuelvo más, tardaron una hora en traer la comida y cuando llegó estaba fría, los mozos se hacían los distraídos","CantLikes":90},
+            {"NombreUsuario":"Ignacio","Valoración":4,"Descripción":"Rica pizza, atendido por sus dueños. La atención es excelente y es una opción espectacular para ir con amigos a pasar un buen rato","CantLikes":48}
+        ]
+    },
+    {
+        "IDUnico":3,
+        "Nombre":"San Carlos",
+        "AñoDeApertura":"2004-09-25",
+        "Ubicación(latitud)":"-34.61555617145232",
+        "Ubicación(longitud)":"-58.42992865229967",
+        "Dueño":"Carlitos",
+        "Logo":"https://www.google.com/url?sa=i&url=https%3A%2F%2Far.pinterest.com%2Fpin%2F265993921712169131%2F&psig=AOvVaw0UuNpcUXVoP0S-aL9VnurF&ust=1665661689372000&source=images&cd=vfe&ved=0CAkQjRxqFwoTCIDNxL_P2voCFQAAAAAdAAAAABAI",
+        "Platos":[
+            {"Nombre":"Menú San Carlos","PrecioUnitario":2650,"PlatoPrincipal":"Rabas","MenuPrincipal":"Milanesa napolitana a caballo","Postre":"Flan"}
+        ],
+        "Reseñas":[
+            {"NombreUsuario":"Carolina","Valoración":1,"Descripción":"Pésima atención traen pan con manteca y sin plato para apoyar el pan ,anti higiénico total. Después de una hora de esperar la pizza ya que supuestamente se rompió cuando la sacaron del horno,la misma estaba cruda y fría.No vuelvo ni gratis.","CantLikes":12},
+            {"NombreUsuario":"Antonela","Valoración":5,"Descripción":"Un clásico de Caballito. Las pizzas son excelentes siempre, ya sea con el borde relleno, las rústicas rellenas, todas vienen con mucha muzza. Los mozos son muy atentos. Los precios acorde, ideal para ir a cenar a la salida del cine.","CantLikes":96},
+            {"NombreUsuario":"Enrique","Valoración":5,"Descripción":"Fuimos con amigos. Todos conocíamos a San Carlos, desde la década de los '90. Y continúa con la calidad y la atención de siempre. Tiene una carta abundante y extensa, con buena carta de vinos y cervezas. Las raciones, abundantes y muy bien elaboradas.","CantLikes":116}
+        ]
+    },
+    {
+        "IDUnico":4,
+        "Nombre":"Army",
+        "AñoDeApertura":"2010-04-21",
+        "Ubicación(latitud)":"-34.61834618408875",
+        "Ubicación(longitud)":"-58.43622836320244",
+        "Dueño":"Miguel",
+        "Logo":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.armyrestaurant.com%2F&psig=AOvVaw1mlkP8AfrCfsmPuyiWLsW0&ust=1665661742174000&source=images&cd=vfe&ved=0CAkQjRxqFwoTCND-x9bP2voCFQAAAAAdAAAAABAD",
+        "Platos":[
+            {"Nombre":"Armenu","PrecioUnitario":2050,"PlatoPrincipal":"Tostadas con queso finlandia","MenuPrincipal":"Sorrentinos rellenos","Postre":"Brownie"}],
+        "Reseñas":[
+            {"NombreUsuario":"Lucia","Valoración":5,"Descripción":"Fuimos a cenar después del cine y lo pasamos excelente. Nos ubicamos en las mesas del primer piso y nos atendieron muy amablemente. Yo pedí un matambre a la pizza muy sabroso y a buen precio (tienen descuentos con tarjetas y Club La Nación).","CantLikes":108},
+            {"NombreUsuario":"Myriam","Valoración":3,"Descripción":"La atención es muy buena. Pleno rivadavia y acoyte. Ubicación inmejorable. Tiene descuento con club la nación. Hubo unos errores en los pedidos: nos trajeron un frappé mocca en vez de army, y una agua saborizada de un gusto que no pedimos.","CantLikes":37},
+            {"NombreUsuario":"Trotamundos","Valoración":4,"Descripción":"Es una cafetería que suele estar siempre llena por la tarde. Fuímos al primer piso y pedimos cortados $ 80 c/u y dos medialunas c/ jamón y queso $ 160. Muy buena atención, servicio de carta. Mesas muy próximas unas a las otras pueden que resten cierta privacidad. Buen lugar para un encuentro express.","CantLikes":15}
+        ]
+    },
+    {
+        "IDUnico":5,
+        "Nombre":"inAsia",
+        "AñoDeApertura":"2022-09-17",
+        "Ubicación(latitud)":"-34.61469854459199",
+        "Ubicación(longitud)":"-58.43132059583237",
+        "Dueño":"Kiriko",
+        "Logo":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.paginasamarillas.es%2Ff%2Fbenalmadena-costa%2Finasia-sushi-grill-japones_195426150_000000005.html&psig=AOvVaw03WCiDnLwrTEb8NsTxdrf9&ust=1665661762842000&source=images&cd=vfe&ved=0CAkQjRxqFwoTCMiuh-LP2voCFQAAAAAdAAAAABAD",
+        "Platos":[{"Nombre":"Tsubarashi","PrecioUnitario":3990,"PlatoPrincipal":"Papas con cheddar y panceta","MenuPrincipal":"Sushi","Postre":"Mochi"}],
+        "Reseñas":[
+            {"NombreUsuario":"Nicolas","Valoración":5,"Descripción":"He vivido muchos años en Londres dónde comía semanalmente en un restaurante homologado japonés, nada que envidiarle. Y al precio! Muy muy recomendable","CantLikes":760},
+            {"NombreUsuario":"Manuela","Valoración":5,"Descripción":"Lo hemos encontrado por TripAdvisor porque estaba cerca y nos ha sorprendido todo, la comida muy buena, muy rápido el servicio y accesible de precio. Recomiendo los camarones!","CantLikes":146},
+            {"NombreUsuario":"Cruiser","Valoración":5,"Descripción":"Sushi buenísimo y con opción de buffet con precio fijo Nos esperábamos más variedad de sushi pero igual todo estaba muy bueno y cominos mucho Personal muy amable y ambiente muy tranquilo y relajado","CantLikes":42}
+        ]
+    }
+]
+}
+
+
