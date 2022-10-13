@@ -2,11 +2,15 @@
     ViewData["Title"] = "Home Page";
 }
 <head>
-<p style="background-image: url('restaurante.jpg');">
+
 </head>
 <div class="text-center">
     <h1 class="display-4">Restaurantes JSON</h1>
 </div>
 
 </br>
-<center><a href="Restaurantes" class="btn btn-primary btn-lg active" role="button" aria-pressed="true">Ir a los restaurantes</a></center>
+<img src="https://turismo.buenosaires.gob.ar/sites/turismo/files/restaurante-el-globo-1500x610.jpg" alt="resto argento">
+<form method="post" action='@Url.Action("CargarRestaurantes","Home")'>
+    <center><input  class="btn btn-warning" role="button" type ="submit" value="Ir a los restaurantes"/></center>
+    </br>
+</form>

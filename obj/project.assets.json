@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "Z:\\Base de Datos\\TP9JSON\\TP9JSON.csproj",
+      "projectUniqueName": "C:\\Users\\46919212\\Downloads\\git\\TP09-JSON\\TP9JSON.csproj",
       "projectName": "TP9JSON",
-      "projectPath": "Z:\\Base de Datos\\TP9JSON\\TP9JSON.csproj",
+      "projectPath": "C:\\Users\\46919212\\Downloads\\git\\TP09-JSON\\TP9JSON.csproj",
       "packagesPath": "C:\\Users\\46919212\\.nuget\\packages\\",
-      "outputPath": "Z:\\Base de Datos\\TP9JSON\\obj\\",
+      "outputPath": "C:\\Users\\46919212\\Downloads\\git\\TP09-JSON\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
