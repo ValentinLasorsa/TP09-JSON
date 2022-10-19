@@ -10,7 +10,17 @@
 
 </br>
 <img src="https://turismo.buenosaires.gob.ar/sites/turismo/files/restaurante-el-globo-1500x610.jpg" alt="resto argento">
-<form method="post" action='@Url.Action("CargarRestaurantes","Home")'>
-    <center><input  class="btn btn-warning" role="button" type ="submit" value="Ir a los restaurantes"/></center>
-    </br>
-</form>
+<button onclick="CargarDatos()">Cargar Datos</button>
+
+<table>
+    <thead>
+      <tr>
+            <td>ID: </td>
+            <td>Nombre: </td>
+            <td>Logo: </td>
+      </tr>
+    </thead>
+    <tbody id="bodyTabla">
+    </tbody>
+
+</table>
